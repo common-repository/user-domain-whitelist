@@ -1,0 +1,91 @@
+# Copyright (C) 2017 User Domain Whitelist/Backlist
+# This file is distributed under the same license as the User Domain Whitelist/Backlist package.
+msgid ""
+msgstr ""
+"Project-Id-Version: User Domain Whitelist/Backlist v1.5.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/user-domain-"
+"whitelist\n"
+"POT-Creation-Date: 2017-12-25 17:00:34+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: user-domain-whitelist.php:30
+msgid "The email address entered is not within an allowed domain."
+msgstr ""
+
+#: user-domain-whitelist.php:69
+msgid "Settings Updated."
+msgstr ""
+
+#: user-domain-whitelist.php:83
+msgid "User Domain Whitelist/Blacklist"
+msgstr ""
+
+#: user-domain-whitelist.php:84
+msgid ""
+"This plugin limits user registration to only registrants with an email "
+"address from the domain white list below <strong>OR</strong> prevents "
+"registrants with an email address from the domain black list below from "
+"registering. For example, <em>hortense@example.com</em> would only be "
+"allowed to register if <em>example.com</em> appeared in the domain white "
+"list. Conversely,  <em>hortense@example.com</em> would <strong>not</strong> "
+"be allowed to register if <em>example.com</em> appeared in the domain black "
+"list. Anyone attempting to register using an email address outside the white "
+"list or inside te black list will receive the error message below."
+msgstr ""
+
+#: user-domain-whitelist.php:85
+msgid ""
+"Obviously you will either use the white list or the black list below, there "
+"is no value in placing values in both lists."
+msgstr ""
+
+#: user-domain-whitelist.php:86
+msgid "Mode"
+msgstr ""
+
+#: user-domain-whitelist.php:94
+msgid "Whitelist"
+msgstr ""
+
+#: user-domain-whitelist.php:95
+msgid "Blacklist"
+msgstr ""
+
+#: user-domain-whitelist.php:96
+msgid "Domain whitelist"
+msgstr ""
+
+#: user-domain-whitelist.php:96 user-domain-whitelist.php:98
+msgid "one per line"
+msgstr ""
+
+#: user-domain-whitelist.php:98
+msgid "Domains Blacklist"
+msgstr ""
+
+#: user-domain-whitelist.php:100
+msgid "Disallowed email domain error message"
+msgstr ""
+
+#: user-domain-whitelist.php:104
+msgid "Update Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "User Domain Whitelist/Backlist"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Limit user registration to a defined whitelist of domains or block user "
+"registrations from a defined blacklist of domains"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Warren Harrison"
+msgstr ""
